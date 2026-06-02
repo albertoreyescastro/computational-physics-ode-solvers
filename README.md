@@ -55,4 +55,4 @@ This notebook can also be uploaded directly to Kaggle as an educational computat
 ## Author
 
 Alberto Reyes Castro  
-Physics graduate and MSc Artificial Intelligence Technology candidate.
+London-based Physics graduate and MSc student in Artificial Intelligence Technology.
